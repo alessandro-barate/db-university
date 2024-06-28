@@ -1,4 +1,4 @@
-Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
+Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti un'università:
 
 - sono presenti diversi Dipartimenti (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.)
 
@@ -12,7 +12,7 @@ Modellizzare la struttura di un database per memorizzare tutti i dati riguardant
 
 - ogni Studente è iscritto ad un solo Corso di Laurea
 
-- ogni Studente può iscriversi a più appelli di Esame
+- ogni Studente può iscriversi a più appelli d'Esame
 
 - per ogni appello d'Esame a cui lo Studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente.
 
